@@ -1,4 +1,3 @@
-# Midterm Report
 
 **Student Name:** Kittakan Phungsuriya
 **Student ID:** 660610859
